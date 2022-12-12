@@ -22,7 +22,7 @@ A simple demo [Demo.ipynb] is available to help you get started quickly.
 $ python cal_DER.py --dataset='aishell-4' --result_path='./test/aishell-4/' --MODE='EVAL' --details_analysis=TRUE
 ```
 
-#### Qualitative research
+### Qualitative research
 The plot tookit is integrated for qualitative research.
 ```bash
 $ python cal_DER.py --WAV='./examples/S_R004S02C01.wav' --RES='./examples/S_R004S02C01.json' --SAVE_PATH='./examples/examples.png'
