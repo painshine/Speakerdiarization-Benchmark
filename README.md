@@ -9,7 +9,6 @@ Contains Dataset: Aishell-4, VoxConverse, ICSI, AMI
 
 ```bash
 $ pip3 install simpleder
-$ pip install textgrid
 ```
 
 
