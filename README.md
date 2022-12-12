@@ -29,6 +29,8 @@ $ python res_PLOT.py --WAV='./examples/WAV_FILE.wav' --RES='./examples/RES_FILE.
 ```
 ![image](https://github.com/painshine/speaker_diarization_benchmark/blob/main/examples/examples.png)
 
+### Save results
+
 The output files for Quatitative research are '[dataset]_evalutaion.txt' and '[dataset]_detail.json'.
 
 The output files for Qualitative research is './examples/examples.png'.
