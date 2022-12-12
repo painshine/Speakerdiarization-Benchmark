@@ -29,6 +29,7 @@ $ python cal_DER.py --WAV='./examples/S_R004S02C01.wav' --RES='./examples/S_R004
 ```
 
 The output files for Quatitative research are '[dataset]_evalutaion.txt' and '[dataset]_detail.json'.
+
 The output files for Qualitative research is './examples/examples.png'.
 
 ## Reference.
