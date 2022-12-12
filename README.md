@@ -4,6 +4,7 @@
 
 Contains Dataset: Aishell-4, VoxConverse, ICSI, AMI
 
+
 ## Installation
 
 ```bash
@@ -11,9 +12,6 @@ $ pip3 install simpleder
 $ pip install textgrid
 ```
 
-## Demo based on jupyter notebook
-
-A simple demo [Demo.ipynb] is available to help you get started quickly. 
 
 ## Example
 
@@ -34,6 +32,12 @@ $ python res_PLOT.py --WAV='./examples/WAV_FILE.wav' --RES='./examples/RES_FILE.
 The output files for Quatitative research are '[dataset]_evalutaion.txt' and '[dataset]_detail.json'.
 
 The output files for Qualitative research is './examples/examples.png'.
+
+
+## Demo based on jupyter notebook
+
+A simple demo [Demo.ipynb] is available to help you get started quickly. 
+
 
 ## Reference.
 1.https://github.com/cvqluu/simple_diarizer
