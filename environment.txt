@@ -1,0 +1,2 @@
+pip install textgrid
+pip3 install simpleder
