@@ -27,6 +27,7 @@ The plot tookit is integrated for qualitative research.
 ```bash
 $ python res_PLOT.py --WAV='./examples/WAV_FILE.wav' --RES='./examples/RES_FILE.json' --SAVE_PATH='./examples/examples.png'
 ```
+![image](https://github.com/painshine/speaker_diarization_benchmark/blob/main/examples/examples.png)
 
 The output files for Quatitative research are '[dataset]_evalutaion.txt' and '[dataset]_detail.json'.
 
