@@ -6,6 +6,7 @@ Contains Dataset: Aishell-4, VoxConverse, ICSI, AMI
 
 
 ## Installation
+Copy this project to your workspace and install the following tookits:
 
 ```bash
 $ pip3 install simpleder
