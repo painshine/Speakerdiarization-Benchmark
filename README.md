@@ -32,9 +32,9 @@ $ python res_PLOT.py --WAV='./examples/WAV_FILE.wav' --RES='./examples/RES_FILE.
 
 ### Save results
 
-The output files for Quatitative research are '[dataset]_evalutaion.txt' and '[dataset]_detail.json'.
+1.The output files for Quatitative research are '[dataset]_evalutaion.txt' and '[dataset]_detail.json'.
 
-The output files for Qualitative research is './examples/examples.png'.
+2.The output files for Qualitative research is './examples/examples.png'.
 
 
 ## Demo based on jupyter notebook
