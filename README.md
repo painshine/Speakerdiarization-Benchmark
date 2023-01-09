@@ -9,11 +9,11 @@ Contains Dataset: Aishell-4, VoxConverse, ICSI, AMI
 Copy this project to your workspace and install the following tookits:
 
 ```bash
-$ pip3 install simpleder
-$ pip install pyannote.metrics
-$ pip install pyannote.core
-$ conda install -c roebel pysndfile
-$ pip install librosa
+pip3 install simpleder
+pip install pyannote.metrics
+pip install pyannote.core
+conda install -c roebel pysndfile
+pip install librosa
 ```
 
 
